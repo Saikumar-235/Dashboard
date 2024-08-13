@@ -1,0 +1,16 @@
+{
+  "widgets": [
+    {
+      "id": "8f8f",
+      "title": "Movies",
+      "description": "Cinema is a Emotion❤️",
+      "category": "Cinema.."
+    },
+    {
+      "id": "c510",
+      "title": "Fron-End Development🏳️‍🌈",
+      "description": "Like Html, Css, Java-Script,React-js...",
+      "category": "User-Interface...📺"
+    }
+  ]
+}
